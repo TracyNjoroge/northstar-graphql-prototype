@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "product_id": "PRD-3001",
+      "product_name": "Wireless Earbuds Pro",
+      "category": "Electronics",
+      "size": "One Size",
+      "color": "Black",
+      "in_stock": true,
+      "stock_count": 45,
+      "price": 89.99,
+      "restock_date": null,
+      "warehouse_location": "Nairobi Central"
+    },
+    {
+      "product_id": "PRD-3002",
+      "product_name": "Running Shoes Size 42",
+      "category": "Footwear",
+      "size": "42 EU",
+      "color": "Blue/White",
+      "in_stock": false,
+      "stock_count": 0,
+      "price": 120.0,
+      "restock_date": "2026-08-20",
+      "warehouse_location": "Nairobi Central"
+    },
+    {
+      "product_id": "PRD-3003",
+      "product_name": "Smart Watch Series 5",
+      "category": "Electronics",
+      "size": "One Size",
+      "color": "Silver",
+      "in_stock": true,
+      "stock_count": 12,
+      "price": 199.99,
+      "restock_date": null,
+      "warehouse_location": "Nairobi Central"
+    },
+    {
+      "product_id": "PRD-3004",
+      "product_name": "Running Shoes Size 42",
+      "category": "Footwear",
+      "size": "42 EU",
+      "color": "All Black",
+      "in_stock": true,
+      "stock_count": 8,
+      "price": 120.0,
+      "restock_date": null,
+      "warehouse_location": "Mombasa Branch"
+    },
+    {
+      "product_id": "PRD-3005",
+      "product_name": "Yoga Mat Premium",
+      "category": "Fitness",
+      "size": "6mm thick",
+      "color": "Purple",
+      "in_stock": true,
+      "stock_count": 23,
+      "price": 35.0,
+      "restock_date": null,
+      "warehouse_location": "Nairobi Central"
+    },
+    {
+      "product_id": "PRD-3006",
+      "product_name": "Bluetooth Speaker Mini",
+      "category": "Electronics",
+      "size": "One Size",
+      "color": "Red",
+      "in_stock": false,
+      "stock_count": 0,
+      "price": 45.0,
+      "restock_date": "2026-08-25",
+      "warehouse_location": "Nairobi Central"
+    },
+    {
+      "product_id": "PRD-3007",
+      "product_name": "Laptop Stand Aluminum",
+      "category": "Accessories",
+      "size": "15-inch compatible",
+      "color": "Silver",
+      "in_stock": true,
+      "stock_count": 67,
+      "price": 55.0,
+      "restock_date": null,
+      "warehouse_location": "Nairobi Central"
+    }
+  ]
+}
