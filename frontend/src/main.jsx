@@ -6,7 +6,7 @@ import { ApolloClient, InMemoryCache, HttpLink } from '@apollo/client';
 import { ApolloProvider } from '@apollo/client/react';
 
 const httpLink = new HttpLink({
-  uri: 'http://localhost:4000/',
+  uri: 'https://northstar-graphql-prototype.onrender.com/',
 });
 
 const client = new ApolloClient({
